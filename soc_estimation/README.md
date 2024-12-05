@@ -1,6 +1,6 @@
-# Ip0355
+# SOC Estimation of a lithium-ion battery using tf-lite micro
 
-## SOC Estimation of a lithium-ion battery using tf-lite micro
+## Intro
 
 The objective of this project is to convert the LSTM model to tensorflow lite for microcontroller format and deploy it to the ESP32-Ethernet-Kit to estimate state of charge of a lithium battery
 
